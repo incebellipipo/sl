@@ -7,4 +7,7 @@ all.
 
 Copyright 1993,1998,2014 Toyoda Masashi (mtoyoda@acm.org)
 
+# Everyone deserves a second chance Edition.
+
+
 ![](demo.gif)
